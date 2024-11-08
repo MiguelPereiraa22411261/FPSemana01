@@ -71,3 +71,5 @@ elif chlevel3 > chlevel2 and chlevel3 > chlevel1:
         else:
          print("Then ", chname1)
          print("And then ", chname2)
+         
+input("My work here is now done, you can now leave ")
